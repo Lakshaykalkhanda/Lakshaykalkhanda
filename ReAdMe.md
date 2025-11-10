@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @Lakshay
-- 👀 I’m interested in DSA
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in Web development 
+- 🌱 I’m currently learning JavaScript 
 - 💞️ I’m looking to collaborate on learning 
-- 📫 How to reach me lakshaykalkhanda28@gmail.com
-  a young interprenure
+- 📫 How to reach me
+-  lakshaykalkhanda28@gmail.com
+- a young interprenure
 
 <!---
 Lakshay/Lakshaykalkhanda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
